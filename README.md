@@ -12,3 +12,6 @@
 <img width="674" alt="added feature branch" src="https://github.com/user-attachments/assets/7bac4d4f-753e-48d1-83e4-040e9d570eab" />
 
 <img width="1021" alt="merge feature and main" src="https://github.com/user-attachments/assets/fbcf2dd9-97fb-4ba5-964a-f5526e8cbd05" />
+
+## Tag the repository using git tag command.
+<img width="403" alt="tag" src="https://github.com/user-attachments/assets/c991252a-48c0-4f07-b575-26f1fcb39e5b" />
